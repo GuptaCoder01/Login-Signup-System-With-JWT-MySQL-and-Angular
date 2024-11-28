@@ -1,0 +1,78 @@
+2024-11-27T09:46:23.285Z [[32minfo[39m]: Token generated for user ID: 15
+2024-11-27T09:46:23.287Z [[32minfo[39m]: User logged in successfully: abcdef@gmail.com
+2024-11-27T09:46:23.341Z [[32minfo[39m]: Authorization header:", Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MTUsImlhdCI6MTczMjcwMDc4MywiZXhwIjoxNzMyNzA0MzgzfQ.e5MJO1-0YTQQGuRfWR1yyaZJuchw-szvxD-tLWG3SiI
+2024-11-27T09:46:23.345Z [[32minfo[39m]: Token verified successfully
+2024-11-27T09:46:23.346Z [[32minfo[39m]: Token valid for user ID : 15
+2024-11-27T09:46:23.346Z [[32minfo[39m]: Authorization header:", Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MTUsImlhdCI6MTczMjcwMDc4MywiZXhwIjoxNzMyNzA0MzgzfQ.e5MJO1-0YTQQGuRfWR1yyaZJuchw-szvxD-tLWG3SiI
+2024-11-27T09:46:23.355Z [[32minfo[39m]: Token verified successfully
+2024-11-27T09:46:23.357Z [[32minfo[39m]: Token valid for user ID : 15
+2024-11-27T09:46:23.359Z [[32minfo[39m]: User 15 accessed dashboard
+2024-11-27T09:50:18.624Z [[31merror[39m]: Error while conntecting databse 
+2024-11-27T09:50:27.608Z [[32minfo[39m]: 
+2024-11-27T09:50:28.788Z [[32minfo[39m]: 
+2024-11-27T09:50:33.958Z [[32minfo[39m]: Connected to 
+2024-11-27T09:50:35.071Z [[32minfo[39m]: Connected to DB
+2024-11-27T09:50:42.179Z [[32minfo[39m]: Connected to DB
+2024-11-27T09:51:17.989Z [[32minfo[39m]: Connected to DB
+2024-11-27T09:51:26.652Z [[32minfo[39m]: Connected to DB
+2024-11-27T09:51:41.674Z [[32minfo[39m]: Connected to DB
+2024-11-27T09:51:56.434Z [[32minfo[39m]: Authorization header:", Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MTUsImlhdCI6MTczMjcwMDc4MywiZXhwIjoxNzMyNzA0MzgzfQ.e5MJO1-0YTQQGuRfWR1yyaZJuchw-szvxD-tLWG3SiI
+2024-11-27T09:51:56.439Z [[32minfo[39m]: Token verified successfully
+2024-11-27T09:51:56.439Z [[32minfo[39m]: Token valid for user ID : 15
+2024-11-27T09:51:56.440Z [[32minfo[39m]: Authorization header:", Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MTUsImlhdCI6MTczMjcwMDc4MywiZXhwIjoxNzMyNzA0MzgzfQ.e5MJO1-0YTQQGuRfWR1yyaZJuchw-szvxD-tLWG3SiI
+2024-11-27T09:51:56.445Z [[32minfo[39m]: Token verified successfully
+2024-11-27T09:51:56.445Z [[32minfo[39m]: Token valid for user ID : 15
+2024-11-27T09:51:56.446Z [[32minfo[39m]: User 15 accessed dashboard
+2024-11-27T09:52:13.656Z [[32minfo[39m]: Token generated for user ID: 15
+2024-11-27T09:52:13.657Z [[32minfo[39m]: User logged in successfully: abcdef@gmail.com
+2024-11-27T09:52:13.712Z [[32minfo[39m]: Authorization header:", Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MTUsImlhdCI6MTczMjcwMTEzMywiZXhwIjoxNzMyNzA0NzMzfQ.xggROPzuEPtz53aeDMdwTuN1qB1i6B8bpx8Qe5icHRs
+2024-11-27T09:52:13.715Z [[32minfo[39m]: Token verified successfully
+2024-11-27T09:52:13.715Z [[32minfo[39m]: Token valid for user ID : 15
+2024-11-27T09:52:13.715Z [[32minfo[39m]: Authorization header:", Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MTUsImlhdCI6MTczMjcwMTEzMywiZXhwIjoxNzMyNzA0NzMzfQ.xggROPzuEPtz53aeDMdwTuN1qB1i6B8bpx8Qe5icHRs
+2024-11-27T09:52:13.717Z [[32minfo[39m]: Token verified successfully
+2024-11-27T09:52:13.723Z [[32minfo[39m]: Token valid for user ID : 15
+2024-11-27T09:52:13.724Z [[32minfo[39m]: User 15 accessed dashboard
+2024-11-27T09:54:30.626Z [[32minfo[39m]: Connected to DB
+2024-11-27T09:54:32.191Z [[32minfo[39m]: Connected to DB
+2024-11-27T09:54:41.561Z [[32minfo[39m]: Connected to DB
+2024-11-27T09:54:42.750Z [[32minfo[39m]: Connected to DB
+2024-11-27T10:25:21.935Z [[32minfo[39m]: Connected to DB
+2024-11-27T10:50:58.409Z [[32minfo[39m]: Connected to DB
+2024-11-27T11:08:41.284Z [[32minfo[39m]: Connected to DB
+2024-11-27T11:08:46.609Z [[32minfo[39m]: Connected to DB
+2024-11-27T11:08:48.224Z [[32minfo[39m]: Connected to DB
+2024-11-27T11:27:04.428Z [[32minfo[39m]: Authorization header:", Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MTUsImlhdCI6MTczMjcwMTEzMywiZXhwIjoxNzMyNzA0NzMzfQ.xggROPzuEPtz53aeDMdwTuN1qB1i6B8bpx8Qe5icHRs
+2024-11-27T11:27:06.806Z [[31merror[39m]: Error verifying token: jwt expired
+2024-11-27T11:27:06.807Z [[31merror[39m]: Invalid or expired token: Invalid or expired token
+2024-11-27T12:49:57.296Z [[33mwarn[39m]: Login failed, invalid password for email: g@gmail.com
+2024-11-27T12:50:20.202Z [[32minfo[39m]: Token generated for user ID: 15
+2024-11-27T12:50:20.224Z [[32minfo[39m]: User logged in successfully: abcdef@gmail.com
+2024-11-27T12:50:20.323Z [[32minfo[39m]: Authorization header:", Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MTUsImlhdCI6MTczMjcxMTgyMCwiZXhwIjoxNzMyNzE1NDIwfQ.qB48Rw8uffu_oRm6tTLZm6yQnbt22qcKjG6xYysc_gc
+2024-11-27T12:50:20.326Z [[32minfo[39m]: Token verified successfully
+2024-11-27T12:50:20.327Z [[32minfo[39m]: Token valid for user ID : 15
+2024-11-27T12:50:20.329Z [[32minfo[39m]: Authorization header:", Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MTUsImlhdCI6MTczMjcxMTgyMCwiZXhwIjoxNzMyNzE1NDIwfQ.qB48Rw8uffu_oRm6tTLZm6yQnbt22qcKjG6xYysc_gc
+2024-11-27T12:50:20.390Z [[32minfo[39m]: Token verified successfully
+2024-11-27T12:50:20.391Z [[32minfo[39m]: Token valid for user ID : 15
+2024-11-27T12:50:20.391Z [[32minfo[39m]: User 15 accessed dashboard
+2024-11-28T04:52:42.834Z [[32minfo[39m]: Connected to DB
+2024-11-28T04:54:01.061Z [[32minfo[39m]: Connected to DB
+2024-11-28T05:09:57.858Z [[32minfo[39m]: Connected to DB
+2024-11-28T05:10:00.792Z [[32minfo[39m]: Connected to DB
+2024-11-28T05:10:04.200Z [[32minfo[39m]: Connected to DB
+2024-11-28T06:30:17.135Z [[32minfo[39m]: Connected to DB
+2024-11-28T06:46:42.781Z [[32minfo[39m]: Connected to DB
+2024-11-28T06:48:21.909Z [[32minfo[39m]: Connected to DB
+2024-11-28T06:48:25.858Z [[32minfo[39m]: Connected to DB
+2024-11-28T06:49:06.108Z [[32minfo[39m]: Token generated for user ID: 15
+2024-11-28T06:49:06.109Z [[32minfo[39m]: User logged in successfully: abcdef@gmail.com
+2024-11-28T06:51:22.220Z [[32minfo[39m]: Token generated for user ID: 15
+2024-11-28T06:51:22.221Z [[32minfo[39m]: User logged in successfully: abcdef@gmail.com
+2024-11-28T06:51:22.635Z [[32minfo[39m]: Authorization header:", Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MTUsImlhdCI6MTczMjc3NjY4MiwiZXhwIjoxNzMyNzgwMjgyfQ.-pNQeR2TFI3EkyfCD9a51SxIJaT7pNuKBdTRuJMIKiw
+2024-11-28T06:51:22.643Z [[32minfo[39m]: Token verified successfully
+2024-11-28T06:51:22.644Z [[32minfo[39m]: Token valid for user ID : 15
+2024-11-28T06:51:22.646Z [[32minfo[39m]: Authorization header:", Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MTUsImlhdCI6MTczMjc3NjY4MiwiZXhwIjoxNzMyNzgwMjgyfQ.-pNQeR2TFI3EkyfCD9a51SxIJaT7pNuKBdTRuJMIKiw
+2024-11-28T06:51:22.650Z [[32minfo[39m]: Token verified successfully
+2024-11-28T06:51:22.651Z [[32minfo[39m]: Token valid for user ID : 15
+2024-11-28T06:51:22.652Z [[32minfo[39m]: User 15 accessed dashboard
+2024-11-28T07:17:48.734Z [[32minfo[39m]: Connected to DB
+2024-11-28T07:17:50.168Z [[32minfo[39m]: Connected to DB

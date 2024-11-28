@@ -1,0 +1,49 @@
+<div class="container">
+  <h2>{{ isLoginMode ? 'Login' : 'Register' }}</h2>
+
+  <form [formGroup]="loginForm" (ngSubmit)="loginUser()">
+
+    <!-- Email Input with Real-time Validation Errors -->
+    <div class="form-group">
+      <label for="email">Email</label>
+      <input id="email" class="form-control form-control-rounded"
+        [ngClass]="{ 'is-invalid': loginForm.get('UserLoginName')?.errors && (loginForm.get('UserLoginName')?.dirty || loginForm.get('UserLoginName')?.touched) }"
+        formControlName="UserLoginName" type="email" placeholder="Enter your email">
+
+      <!-- Displaying Validation Errors for Email in Priority Order -->
+      <div *ngFor="let validation of validation_message.UserLoginName" class="invalid-feedback">
+        <div *ngIf="loginForm.get('UserLoginName')?.hasError(validation.type) &&
+                     (loginForm.get('UserLoginName')?.dirty || loginForm.get('UserLoginName')?.touched)">
+          {{ validation.message }}
+        </div>
+      </div>
+    </div>
+
+
+    <!-- Password Input with Real-time Validation Errors -->
+    <div class="form-group">
+      <label for="name">Password</label>
+      <input id="password" class="form-control form-control-rounded"
+        [ngClass]="{ 'is-invalid': loginForm.get('UserPassword')?.errors && (loginForm.get('UserPassword')?.dirty || loginForm.get('UserPassword')?.touched) }"
+        formControlName="UserPassword" placeholder="Enter Password" type="password">
+
+
+      <!-- Displaying Validation Errors for Password -->
+      <div *ngFor="let validation of validation_message.UserPassword" class="invalid-feedback">
+        <small *ngIf="loginForm.get('UserPassword')?.hasError(validation.type) &&
+        (loginForm.get('UserPassword')?.dirty || loginForm.get('UserPassword')?.touched)">
+          {{ validation.message }}
+        </small>
+      </div>
+    </div>
+
+    <!-- Submit button -->
+    <button type="submit" class="btn btn-primary mt-3" [disabled]="loginForm.invalid">{{isLoginMode ? 'Login' :
+      'Register'}}</button>
+  </form>
+
+
+  <button class="btn btn-link" (click)="toggleMode()">
+    Switch to {{isLoginMode ? 'Don\'t have an account? Register' : 'Already have an account? Login'}}
+  </button>
+</div>
