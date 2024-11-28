@@ -3,7 +3,6 @@
 > [!IMPORTANT]
 > ## The system includes the following features: 
 >:shipit:
-* 
 * **MySQL Database**: MySQL is used as the database to store user information.
 * **JWT Authentication**: JSON Web Tokens are used to secure the authentication process.
 * **User Authentication** : </ins> Users can sign up and log in using their email and password.
